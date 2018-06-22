@@ -11,4 +11,4 @@
 |
 */
 
-Route::get("/", "Modules\AvalonController@store");
+// Route::post("api/blobstore", "Modules\BlobController@blobstore");
